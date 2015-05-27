@@ -1,4 +1,4 @@
-# meteor-boilerplate - based on Differential remake by aladine https://github.com/aladine/meteor-boilerplate
+# meteor-boilerplate
 
 A starting point for MeteorJS applications. Includes flow-router, Bootstrap 3, Font Awesome, LESS and more.
 
@@ -148,3 +148,5 @@ Flow-Router integration is still working in progress. Please checkout this branc
 > meteor add useraccounts:<something>
 > meteor
 ```
+
+Added first name and last name to profile in /accounts/config.js
