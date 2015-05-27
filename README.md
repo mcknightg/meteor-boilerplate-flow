@@ -1,4 +1,4 @@
-# meteor-boilerplate
+# meteor-boilerplate - based on Differential remake by aladine https://github.com/aladine/meteor-boilerplate
 
 A starting point for MeteorJS applications. Includes flow-router, Bootstrap 3, Font Awesome, LESS and more.
 
